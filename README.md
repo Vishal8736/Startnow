@@ -15,7 +15,9 @@ An autonomous script for Kali Linux to set up a complete Web and Network Pentest
 
 ## Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/startnow.git](https://github.com/YOUR_USERNAME/startnow.git)
+git clone [[https://github.com/YOUR_USERNAME/startnow.git]](https://github.com/Vishal8736/Startnow
+https://github.com/YOUR_USERNAME/startnow
+(https://github.com/Vishal8736/Startnow/tree/main)
 cd startnow
 chmod +x startnow.sh
 ./startnow.sh
